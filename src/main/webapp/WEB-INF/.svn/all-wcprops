@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/rhsvn/siprew/!svn/ver/534/sipre-module/trunk/sipre-file/src/main/webapp/WEB-INF
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/rhsvn/siprew/!svn/ver/534/sipre-module/trunk/sipre-file/src/main/webapp/WEB-INF/jboss-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rhsvn/siprew/!svn/ver/608/sipre-module/trunk/sipre-file/src/main/webapp/WEB-INF/web.xml
+END
